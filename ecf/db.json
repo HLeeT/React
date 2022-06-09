@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "titre": "Le phare d'Alexandrie",
+      "auteur": "Chris Evans",
+      "contenu": "Le phare d'Alexandrie (du grec ancien ὁ Φάρος τῆς Ἀλεξανδρείας / ho Pháros tễs Alexandreías) était un phare situé à Alexandrie, en Égypte. Il était considéré dans l'Antiquité comme la septième des Sept Merveilles du monde. Il a servi de guide aux marins pendant près de dix-sept siècles (du iiie siècle av. J.-C. au xive siècle). Sa construction aurait débuté entre 299 et 289 avant notre ère (la date exacte est inconnue) et duré une quinzaine d'années. Les travaux ont commencé sous le règne de Ptolémée Ier mais il meurt avant la fin du chantier qui est achevé sous le règne de son fils Ptolémée IIRéf. 1.",
+      "image": "https://iili.io/M2H2Pp.jpg",
+      "date": "31/03/2001",
+      "id": 1
+    },
+    {
+      "titre": "Le Grand Canyon",
+      "auteur": "Masahito Togami",
+      "contenu": "Le Grand Canyon ou Grand Cañon1, en anglais Grand Canyon, en hopi Ongtupqa, en yavapai Wi:kaʼi:la, est un canyon des États-Unis situé dans le Nord-Ouest de l'Arizona. La gorge a été creusée par le fleuve Colorado dans le plateau du même nom. Fondé en 1919, le parc national du Grand Canyon couvre un territoire protégé de 4 927 km2N 1. Il est fréquenté chaque année par plus de quatre millions et demi de visiteurs. La diversité et la singularité naturelle et paysagère du site l'ont fait reconnaître patrimoine mondial de l’Humanité par l’UNESCO en 1979.",
+      "image": "https://iili.io/M2HFKN.jpg",
+      "date": "14/11/1998",
+      "id": 2
+    },
+    {
+      "titre": "Ciel",
+      "auteur": "Thomas Grenier",
+      "contenu": "Le ciel est l'étendue visible au-dessus du sol depuis la surface de la Terre, de l'horizon au zénith, dans laquelle on observe les météores et les mouvements réguliers des astres. Le ciel est à la fois l'atmosphère terrestre, dans laquelle volent les oiseaux et courent les nuages, et la sphère céleste, au-delà de la perception de la distance, que l'on désigne par métaphore comme une voûte immense.En dehors des objets célestes, et au-delà des nuages, l'atmosphère diffuse la lumière solaire et confère à la couleur du ciel une teinte bleue plus ou moins pâle dans la journée ; la nuit le ciel reste noir.",
+      "image": "https://iili.io/M2HBHX.jpg",
+      "date": "19/02/1958",
+      "id": 3
+    }
+  ]
+}
